@@ -1,6 +1,6 @@
 # IT-Glue-Exporter
 ## IT Glue PWD Exporter
-This will export all passwords from IT Glue to a CSV file and it will format it the same way the offical IT Glue account export does
+This will export all passwords from IT Glue to a CSV file and it will format it the same way the official IT Glue account export does
 
 This is a modified version of https://github.com/KelvinTegelaar/ITGlueBackup
 
